@@ -13,7 +13,7 @@
 
 ## Background
 
-The OpenTLD was originally published in [MATLAB](https://github.com/zk00006/OpenTLD)  by Zdenek Kalaland later in [C++](https://github.com/gnebehay/OpenTLD) by Georg Nebehay. This code is based on the C++ implementation by Georg Nebehay and is inspired in the [Android](https://github.com/trandi/OpenTLDAndroid) port by Dan Oprescu.
+The OpenTLD was originally published in [MATLAB](https://github.com/zk00006/OpenTLD)  by Zdenek Kalaland and later in [C++](https://github.com/gnebehay/OpenTLD) by Georg Nebehay. This code is based in the C++ implementation by Georg Nebehay and is inspired in the [Android](https://github.com/trandi/OpenTLDAndroid) port by Dan Oprescu.
 
 ## Install
 
