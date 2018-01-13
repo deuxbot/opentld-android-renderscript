@@ -1,8 +1,7 @@
-# Title
+# opentld-android-renderscript
 
-> opentld-android-renderscript
+> Fast OpenTLD port to Android with RenderScript
 
-This is a port of the OpenTLD algorithm to Android using RenderScript to improve the speed.
 
 ## Table of Contents
 
@@ -27,9 +26,9 @@ Create a bounding box arround and object and the algorithm will start. See the d
 
 ## Results
 
-The overall performance was improved by a factor of  2.35 while the optimised phases were improved by a factor of 8.26, reaching a factor 22.96 in one phase.  Tests were measured in a Samsung Galaxy S3 with a window resolution of 320x240 (QVGA). 
+Overall performance was improved by a factor 2.35 while the optimised phases were improved by a factor 8.26, reaching a factor 22.96 in one phase. Tests were measured on a Samsung Galaxy S3 with a frame resolution of 320x240 (QVGA). 
 
 
 ## License
 
-See [LICENSE](https://github.com/deuxbot/opentld-android-renderscript/license)
+See [LICENSE](https://github.com/deuxbot/opentld-android-renderscript/blob/master/LICENSE)
