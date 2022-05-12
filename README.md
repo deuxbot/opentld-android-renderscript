@@ -22,7 +22,7 @@ No instructions are provided. This code was developed back in 2014 with Eclipse 
 ## Usage
 Create a bounding box arround and object and the algorithm will start. See the demo:
 
-[![](https://i.ytimg.com/vi/CSKyr6it4Qw/1.jpg)](https://youtu.be/CSKyr6it4Qw) 
+[![](https://i.ytimg.com/vi/4itJTOFhzss/hqdefault.jpg?s%E2%80%A6AFwAcABBg==&rs=AOn4CLDjJMeUj7maZzZ438BEtSAHRIHMCg)](https://youtu.be/4itJTOFhzss) 
 
 ## Results
 
